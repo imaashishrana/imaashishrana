@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rudranarayan Roul</h1>
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Rudra267&label=Profile%20views&color=0e75b6&style=flat" alt="Rudra267" />
+  <img src="https://komarev.com/ghpvc/?username=imaashishrana&label=Profile%20views&color=0e75b6&style=flat" alt="imaashishrana" />
 </p>
 <img align="right" src="https://github.com/hi-manss/hi-manss/blob/main/developer.gif" width="350px">
 
@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rudranarayan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rudranarayan-r-99a893248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin Badge](https://img.shields.io/badge/-Ashish_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashikumar/)
 
-[![Gmail Badge](https://img.shields.io/badge/-nrudra550@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nrudra550@gmail.com)](mailto:nrudra550@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-________rudra__-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_________rudra___/?hl=en)
+[![Gmail Badge](https://img.shields.io/badge/-aashishrana4700@gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aashishrana4700@gmail)](mailto:aashishrana4700@gmail)  
+[![Instagram](https://img.shields.io/badge/-im__aashishrana-c13584?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/im_aashishrana/?hl=en)
 
 
 <p align="center">
@@ -38,11 +38,11 @@
 </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra267&show_icons=true&locale=en&layout=compact" alt="Rudra267" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imaashishrana&show_icons=true&locale=en&layout=compact" alt="imaashishrana" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra267&" alt="Rudra267" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imaashishrana&" alt="imaashishrana" />
 </p>
 
 
